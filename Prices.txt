@@ -1,0 +1,5 @@
+Cola,5,2.54$
+Water,10,50c
+Soda,3,1.27$
+Fanta,5,2$
+Icetea,0,3.32$
